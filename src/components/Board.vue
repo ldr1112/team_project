@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-table striped hover :items="items" :fields="fields" @row-clicked="rowClick"></b-table>
+    <b-table class="table" striped hover :items="items" :fields="fields" @row-clicked="rowClick"></b-table>
     <b-button @click="writeContent">글쓰기</b-button>
   </div>
 </template>
@@ -57,3 +57,15 @@ export default {
   }
 }
 </script>
+
+<style>
+  .table {
+    width: 70%;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+</style>
