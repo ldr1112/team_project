@@ -1,0 +1,106 @@
+2022-03-13 01:07:42.508[info] app start
+2022-03-13 01:07:43.071[info] DB connection success
+2022-03-13 01:07:43.114[info] Sequelize sync success
+2022-03-13 01:47:39.703[info] app start
+2022-03-13 01:47:39.962[info] DB connection success
+2022-03-13 01:47:40.010[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:47:55.657[info] app start
+2022-03-13 01:47:56.016[info] DB connection success
+2022-03-13 01:47:56.048[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:15.144[info] app start
+2022-03-13 01:49:15.395[info] DB connection success
+2022-03-13 01:49:15.427[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:26.893[info] app start
+2022-03-13 01:49:27.249[info] DB connection success
+2022-03-13 01:49:27.283[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:35.077[info] app start
+2022-03-13 01:49:35.304[info] DB connection success
+2022-03-13 01:49:35.335[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:37.384[info] app start
+2022-03-13 01:49:37.646[info] DB connection success
+2022-03-13 01:49:37.682[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:41.742[info] app start
+2022-03-13 01:49:42.104[info] DB connection success
+2022-03-13 01:49:42.142[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:55.686[info] app start
+2022-03-13 01:49:55.949[info] DB connection success
+2022-03-13 01:49:55.982[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:49:57.593[info] app start
+2022-03-13 01:49:57.868[info] DB connection success
+2022-03-13 01:49:57.911[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 01:52:54.343[info] app start
+2022-03-13 01:52:54.625[info] DB connection success
+2022-03-13 01:52:54.658[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:02:32.915[info] app start
+2022-03-13 02:02:33.153[info] DB connection success
+2022-03-13 02:02:33.186[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:03:03.169[info] app start
+2022-03-13 02:03:03.468[info] DB connection success
+2022-03-13 02:03:03.522[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:03:07.322[info] app start
+2022-03-13 02:03:07.686[info] DB connection success
+2022-03-13 02:03:07.725[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:03:10.248[info] app start
+2022-03-13 02:03:10.527[info] DB connection success
+2022-03-13 02:03:10.568[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:04:20.121[info] app start
+2022-03-13 02:04:20.397[info] DB connection success
+2022-03-13 02:04:20.445[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:04:22.797[info] app start
+2022-03-13 02:04:23.120[info] DB connection success
+2022-03-13 02:04:23.163[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:04:33.086[info] app start
+2022-03-13 02:04:33.453[info] DB connection success
+2022-03-13 02:04:33.487[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:05:13.820[info] app start
+2022-03-13 02:05:14.107[info] DB connection success
+2022-03-13 02:05:14.201[info] Sequelize sync success
+2022-03-13 02:07:33.541[info] app start
+2022-03-13 02:07:33.811[info] DB connection success
+2022-03-13 02:07:33.850[info] Sequelize sync success
+2022-03-13 02:08:13.220[info] app start
+2022-03-13 02:08:13.479[info] DB connection success
+2022-03-13 02:08:13.528[info] Sequelize sync success
+2022-03-13 02:09:32.444[info] app start
+2022-03-13 02:09:32.699[info] DB connection success
+2022-03-13 02:09:32.733[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:09:52.964[info] app start
+2022-03-13 02:09:53.231[info] DB connection success
+2022-03-13 02:09:53.274[error] Sequelize sync error "posts_user_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-13 02:09:59.820[info] app start
+2022-03-13 02:10:00.159[info] DB connection success
+2022-03-13 02:10:00.221[info] Sequelize sync success
+2022-03-13 02:24:22.217[info] app start
+2022-03-13 02:24:22.443[info] DB connection success
+2022-03-13 02:24:22.515[info] Sequelize sync success
+2022-03-13 02:30:32.111[info] app start
+2022-03-13 02:30:32.342[info] DB connection success
+2022-03-13 02:30:32.383[info] Sequelize sync success
+2022-03-13 02:31:54.930[info] app start
+2022-03-13 02:31:55.182[info] DB connection success
+2022-03-13 02:31:55.226[info] Sequelize sync success
+2022-03-13 02:38:17.625[info] app start
+2022-03-13 02:38:17.872[info] DB connection success
+2022-03-13 02:38:17.912[info] Sequelize sync success
+2022-03-13 02:39:47.514[info] app start
+2022-03-13 02:39:47.759[info] DB connection success
+2022-03-13 02:39:47.811[info] Sequelize sync success
+2022-03-13 02:41:28.337[info] app start
+2022-03-13 02:41:28.586[info] DB connection success
+2022-03-13 02:41:28.632[info] Sequelize sync success
+2022-03-13 02:42:03.033[info] app start
+2022-03-13 02:42:03.254[info] DB connection success
+2022-03-13 02:42:03.298[info] Sequelize sync success
+2022-03-13 02:42:05.632[info] app start
+2022-03-13 02:42:05.909[info] DB connection success
+2022-03-13 02:42:05.966[info] Sequelize sync success
+2022-03-13 02:53:35.481[info] app start
+2022-03-13 02:53:35.801[info] DB connection success
+2022-03-13 02:53:35.804[error] Sequelize sync error Cyclic dependency found. posts is dependent of itself.
+Dependency chain: posts -> images => posts
+2022-03-13 02:53:37.105[info] app start
+2022-03-13 02:53:37.389[info] DB connection success
+2022-03-13 02:53:37.445[info] Sequelize sync success
+2022-03-13 02:54:17.132[info] app start
+2022-03-13 02:54:17.437[info] DB connection success
+2022-03-13 02:54:17.497[info] Sequelize sync success

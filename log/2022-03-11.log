@@ -1,0 +1,58 @@
+2022-03-11 17:57:25.107[info] app start
+2022-03-11 17:57:25.792[info] DB connection success
+2022-03-11 17:57:25.827[info] Sequelize sync success
+2022-03-11 17:58:34.652[info] app start
+2022-03-11 17:58:34.925[info] DB connection success
+2022-03-11 17:58:34.959[info] Sequelize sync success
+2022-03-11 18:02:17.530[info] app start
+2022-03-11 18:02:17.786[info] DB connection success
+2022-03-11 18:02:17.818[info] Sequelize sync success
+2022-03-11 18:02:21.695[info] app start
+2022-03-11 18:02:21.933[info] DB connection success
+2022-03-11 18:02:21.965[info] Sequelize sync success
+2022-03-11 18:02:41.034[info] app start
+2022-03-11 18:02:41.407[info] DB connection success
+2022-03-11 18:02:41.462[info] Sequelize sync success
+2022-03-11 18:03:53.752[info] app start
+2022-03-11 18:03:54.111[info] DB connection success
+2022-03-11 18:03:54.157[info] Sequelize sync success
+2022-03-11 18:04:41.793[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-11 18:04:41.928[debug] (commentService.list) {"count":0,"rows":[]}
+2022-03-11 18:04:41.930[info] (comment.list.result) {"count":0,"rows":[]}
+2022-03-11 18:04:44.606[info] (board.list.params) {"boardName":"AA"}
+2022-03-11 18:04:44.612[debug] (boardService.list) {"count":0,"rows":[]}
+2022-03-11 18:04:44.613[info] (board.list.result) {"count":0,"rows":[]}
+2022-03-11 18:04:47.402[info] (profile.list.params) {}
+2022-03-11 18:04:47.411[debug] (profileService.list) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-11 18:04:47.413[info] (profile.list.result) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-11 18:04:49.830[info] (post.list.params) {}
+2022-03-11 18:04:49.839[debug] (postService.list) {"count":6,"rows":[{"id":22,"subnum":"6","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:40.008Z","updatedAt":"2022-03-04T05:06:40.008Z","deletedAt":null},{"id":21,"subnum":"5","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:36.666Z","updatedAt":"2022-03-04T05:06:36.666Z","deletedAt":null},{"id":19,"subnum":"4","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:09.265Z","updatedAt":"2022-03-04T05:06:09.265Z","deletedAt":null},{"id":18,"subnum":"3","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:04.848Z","updatedAt":"2022-03-04T05:06:04.848Z","deletedAt":null},{"id":17,"subnum":"2","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:05:59.963Z","updatedAt":"2022-03-04T05:05:59.963Z","deletedAt":null},{"id":15,"subnum":"1","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T01:46:41.746Z","updatedAt":"2022-03-04T01:46:41.746Z","deletedAt":null}]}
+2022-03-11 18:04:49.844[info] (post.list.result) {"count":6,"rows":[{"id":22,"subnum":"6","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:40.008Z","updatedAt":"2022-03-04T05:06:40.008Z","deletedAt":null},{"id":21,"subnum":"5","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:36.666Z","updatedAt":"2022-03-04T05:06:36.666Z","deletedAt":null},{"id":19,"subnum":"4","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:09.265Z","updatedAt":"2022-03-04T05:06:09.265Z","deletedAt":null},{"id":18,"subnum":"3","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:04.848Z","updatedAt":"2022-03-04T05:06:04.848Z","deletedAt":null},{"id":17,"subnum":"2","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:05:59.963Z","updatedAt":"2022-03-04T05:05:59.963Z","deletedAt":null},{"id":15,"subnum":"1","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T01:46:41.746Z","updatedAt":"2022-03-04T01:46:41.746Z","deletedAt":null}]}
+2022-03-11 18:04:55.062[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-11 18:04:55.069[debug] (commentService.list) {"count":0,"rows":[]}
+2022-03-11 18:04:55.070[info] (comment.list.result) {"count":0,"rows":[]}
+2022-03-11 18:05:34.882[info] (photo.list.params) {}
+2022-03-11 18:05:34.883[error] (photoService.list) TypeError: Photo.findandCountAll is not a function
+2022-03-11 18:07:15.999[info] app start
+2022-03-11 18:07:16.248[info] DB connection success
+2022-03-11 18:07:16.287[info] Sequelize sync success
+2022-03-11 18:07:19.714[info] (photo.list.params) {}
+2022-03-11 18:07:19.716[error] (photoService.list) TypeError: Photo.findandCountAll is not a function
+2022-03-11 18:07:54.135[info] app start
+2022-03-11 18:07:54.425[info] DB connection success
+2022-03-11 18:07:54.466[info] Sequelize sync success
+2022-03-11 18:08:23.927[info] app start
+2022-03-11 18:08:24.197[info] DB connection success
+2022-03-11 18:08:24.244[info] Sequelize sync success
+2022-03-11 18:08:25.423[info] (photo.list.params) {}
+2022-03-11 18:08:25.437[debug] (photoService.list) {"count":0,"rows":[]}
+2022-03-11 18:08:25.439[info] (photo.list.result) {"count":0,"rows":[]}
+2022-03-11 19:19:28.314[info] app start
+2022-03-11 19:19:28.598[info] DB connection success
+2022-03-11 19:19:28.651[info] Sequelize sync success
+2022-03-11 19:19:41.334[info] (image.list.params) {}
+2022-03-11 19:19:41.421[debug] (imageService.list) {"count":0,"rows":[]}
+2022-03-11 19:19:41.423[info] (image.list.result) {"count":0,"rows":[]}
+2022-03-11 19:19:42.445[info] (image.list.params) {}
+2022-03-11 19:19:42.451[debug] (imageService.list) {"count":0,"rows":[]}
+2022-03-11 19:19:42.452[info] (image.list.result) {"count":0,"rows":[]}

@@ -1,0 +1,99 @@
+2022-03-06 00:24:14.219[info] app start
+2022-03-06 00:24:14.698[info] DB connection success
+2022-03-06 00:24:14.726[info] Sequelize sync success
+2022-03-06 00:24:24.054[info] app start
+2022-03-06 00:24:24.315[info] DB connection success
+2022-03-06 00:24:24.341[info] Sequelize sync success
+2022-03-06 00:24:31.075[info] app start
+2022-03-06 00:24:31.453[info] DB connection success
+2022-03-06 00:24:31.477[info] Sequelize sync success
+2022-03-06 00:24:32.659[info] app start
+2022-03-06 00:24:33.069[info] DB connection success
+2022-03-06 00:24:33.094[info] Sequelize sync success
+2022-03-06 00:26:12.039[info] app start
+2022-03-06 00:26:12.348[info] DB connection success
+2022-03-06 00:26:12.379[info] Sequelize sync success
+2022-03-06 00:29:09.542[info] app start
+2022-03-06 00:29:09.937[info] DB connection success
+2022-03-06 00:29:09.964[info] Sequelize sync success
+2022-03-06 00:31:56.739[info] app start
+2022-03-06 00:31:57.004[info] DB connection success
+2022-03-06 00:31:57.031[info] Sequelize sync success
+2022-03-06 00:38:46.836[info] app start
+2022-03-06 00:38:47.101[info] DB connection success
+2022-03-06 00:38:47.129[info] Sequelize sync success
+2022-03-06 00:39:47.235[info] app start
+2022-03-06 00:39:47.606[info] DB connection success
+2022-03-06 00:39:47.630[info] Sequelize sync success
+2022-03-06 00:41:41.267[info] app start
+2022-03-06 00:41:41.670[info] DB connection success
+2022-03-06 00:41:41.693[info] Sequelize sync success
+2022-03-06 00:41:46.369[info] app start
+2022-03-06 00:41:46.679[info] DB connection success
+2022-03-06 00:41:46.708[info] Sequelize sync success
+2022-03-06 00:41:56.368[info] app start
+2022-03-06 00:41:56.802[info] DB connection success
+2022-03-06 00:41:56.834[info] Sequelize sync success
+2022-03-06 21:25:07.487[info] app start
+2022-03-06 21:25:07.897[info] DB connection success
+2022-03-06 21:25:07.928[info] Sequelize sync success
+2022-03-06 21:25:16.185[info] app start
+2022-03-06 21:25:16.619[info] DB connection success
+2022-03-06 21:25:16.674[info] Sequelize sync success
+2022-03-06 21:25:37.792[info] app start
+2022-03-06 21:25:38.142[info] DB connection success
+2022-03-06 21:25:38.176[info] Sequelize sync success
+2022-03-06 21:36:46.727[info] app start
+2022-03-06 21:36:47.081[info] DB connection success
+2022-03-06 21:36:47.149[info] Sequelize sync success
+2022-03-06 21:37:38.466[info] (post.list.params) {}
+2022-03-06 21:37:38.625[debug] (postService.list) {"count":6,"rows":[{"id":22,"subnum":"6","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:40.008Z","updatedAt":"2022-03-04T05:06:40.008Z","deletedAt":null},{"id":21,"subnum":"5","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:36.666Z","updatedAt":"2022-03-04T05:06:36.666Z","deletedAt":null},{"id":19,"subnum":"4","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:09.265Z","updatedAt":"2022-03-04T05:06:09.265Z","deletedAt":null},{"id":18,"subnum":"3","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:04.848Z","updatedAt":"2022-03-04T05:06:04.848Z","deletedAt":null},{"id":17,"subnum":"2","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:05:59.963Z","updatedAt":"2022-03-04T05:05:59.963Z","deletedAt":null},{"id":15,"subnum":"1","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T01:46:41.746Z","updatedAt":"2022-03-04T01:46:41.746Z","deletedAt":null}]}
+2022-03-06 21:37:38.634[info] (post.list.result) {"count":6,"rows":[{"id":22,"subnum":"6","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:40.008Z","updatedAt":"2022-03-04T05:06:40.008Z","deletedAt":null},{"id":21,"subnum":"5","post":"로그인","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:36.666Z","updatedAt":"2022-03-04T05:06:36.666Z","deletedAt":null},{"id":19,"subnum":"4","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:09.265Z","updatedAt":"2022-03-04T05:06:09.265Z","deletedAt":null},{"id":18,"subnum":"3","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:06:04.848Z","updatedAt":"2022-03-04T05:06:04.848Z","deletedAt":null},{"id":17,"subnum":"2","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T05:05:59.963Z","updatedAt":"2022-03-04T05:05:59.963Z","deletedAt":null},{"id":15,"subnum":"1","post":"게시판","subject":"첫글","userid":"aa","text":"hihihi","comment":"dd","updatedPwDate":null,"createdAt":"2022-03-04T01:46:41.746Z","updatedAt":"2022-03-04T01:46:41.746Z","deletedAt":null}]}
+2022-03-06 21:41:06.805[info] (profile.list.params) {}
+2022-03-06 21:41:06.942[debug] (profileService.list) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-06 21:41:06.945[info] (profile.list.result) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-06 21:41:46.322[info] (profile.list.params) {}
+2022-03-06 21:41:46.442[debug] (profileService.list) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-06 21:41:46.444[info] (profile.list.result) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-06 21:45:59.125[info] (profile.list.params) {}
+2022-03-06 21:45:59.259[debug] (profileService.list) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-06 21:45:59.261[info] (profile.list.result) {"count":1,"rows":[{"id":1,"userid":"ab","password":"123","name":"aa","mobile":null,"email":null,"updatedPwDate":null,"createdAt":"2022-03-04T07:38:45.001Z","updatedAt":"2022-03-04T07:38:45.001Z","deletedAt":null}]}
+2022-03-06 21:46:27.312[info] app start
+2022-03-06 21:46:27.655[info] DB connection success
+2022-03-06 21:46:27.696[info] Sequelize sync success
+2022-03-06 21:46:31.805[info] (board.list.params) {}
+2022-03-06 21:46:31.806[error] (boardService.list) null
+2022-03-06 21:46:41.219[info] (board.reg.params) {"boardId":"1","boardName":"AA"}
+2022-03-06 21:46:41.222[error] Error: Not allowed null (name)
+2022-03-06 21:46:41.224[error] (boardService.reg) TypeError: boardDao.insert is not a function
+2022-03-06 21:47:26.514[info] (board.reg.params) {"boardId":"1","boardName":"AA"}
+2022-03-06 21:47:26.516[error] Error: Not allowed null (name)
+2022-03-06 21:47:26.518[error] (boardService.reg) TypeError: boardDao.insert is not a function
+2022-03-06 21:48:09.836[info] app start
+2022-03-06 21:48:10.188[info] DB connection success
+2022-03-06 21:48:10.260[info] Sequelize sync success
+2022-03-06 21:48:17.036[info] (board.reg.params) {"boardId":"1","boardName":"AA"}
+2022-03-06 21:48:17.038[error] Error: Not allowed null (name)
+2022-03-06 21:48:17.043[error] (boardService.reg) TypeError: boardDao.insert is not a function
+2022-03-06 21:55:01.280[info] (board.list.params) {}
+2022-03-06 21:55:01.282[error] (boardService.list) null
+2022-03-06 22:03:19.607[info] app start
+2022-03-06 22:03:19.934[info] DB connection success
+2022-03-06 22:03:19.977[info] Sequelize sync success
+2022-03-06 22:04:47.636[info] app start
+2022-03-06 22:04:47.916[info] DB connection success
+2022-03-06 22:04:47.956[info] Sequelize sync success
+2022-03-06 22:04:52.235[info] (board.list.params) {"boardName":"AA"}
+2022-03-06 22:04:52.238[error] (boardService.list) null
+2022-03-06 22:05:37.680[info] app start
+2022-03-06 22:05:38.010[info] DB connection success
+2022-03-06 22:05:38.050[info] Sequelize sync success
+2022-03-06 22:05:45.555[info] app start
+2022-03-06 22:05:45.850[info] DB connection success
+2022-03-06 22:05:45.884[info] Sequelize sync success
+2022-03-06 22:08:40.022[info] app start
+2022-03-06 22:08:40.336[info] DB connection success
+2022-03-06 22:08:40.375[info] Sequelize sync success
+2022-03-06 22:08:45.743[info] (board.list.params) {"boardName":"AA"}
+2022-03-06 22:08:45.757[debug] (boardService.list) {"count":0,"rows":[]}
+2022-03-06 22:08:45.758[info] (board.list.result) {"count":0,"rows":[]}

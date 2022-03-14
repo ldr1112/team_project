@@ -1,0 +1,249 @@
+2022-03-07 09:24:27.839[info] app start
+2022-03-07 09:24:28.293[info] DB connection success
+2022-03-07 09:24:28.320[info] Sequelize sync success
+2022-03-07 09:24:29.439[info] app start
+2022-03-07 09:24:29.671[info] DB connection success
+2022-03-07 09:24:29.704[info] Sequelize sync success
+2022-03-07 09:24:35.478[info] app start
+2022-03-07 09:24:35.733[info] DB connection success
+2022-03-07 09:24:35.765[info] Sequelize sync success
+2022-03-07 09:24:44.662[info] app start
+2022-03-07 09:24:44.893[info] DB connection success
+2022-03-07 09:24:44.923[info] Sequelize sync success
+2022-03-07 09:32:25.575[info] app start
+2022-03-07 09:32:25.926[info] DB connection success
+2022-03-07 09:32:25.954[info] Sequelize sync success
+2022-03-07 09:32:47.042[info] app start
+2022-03-07 09:32:47.279[info] DB connection success
+2022-03-07 09:32:47.309[info] Sequelize sync success
+2022-03-07 09:32:53.790[info] app start
+2022-03-07 09:32:54.174[info] DB connection success
+2022-03-07 09:32:54.208[info] Sequelize sync success
+2022-03-07 09:34:22.496[info] app start
+2022-03-07 09:34:22.712[info] DB connection success
+2022-03-07 09:34:22.739[info] Sequelize sync success
+2022-03-07 09:36:17.967[info] app start
+2022-03-07 09:36:18.189[info] DB connection success
+2022-03-07 09:36:18.217[info] Sequelize sync success
+2022-03-07 09:38:18.615[info] app start
+2022-03-07 09:38:18.827[info] DB connection success
+2022-03-07 09:38:18.853[info] Sequelize sync success
+2022-03-07 09:40:13.635[info] app start
+2022-03-07 09:40:13.980[info] DB connection success
+2022-03-07 09:40:14.008[info] Sequelize sync success
+2022-03-07 09:40:30.787[info] app start
+2022-03-07 09:40:31.002[info] DB connection success
+2022-03-07 09:40:31.029[info] Sequelize sync success
+2022-03-07 09:40:50.052[info] app start
+2022-03-07 09:40:50.404[info] DB connection success
+2022-03-07 09:40:50.432[info] Sequelize sync success
+2022-03-07 09:41:28.204[info] app start
+2022-03-07 09:41:28.421[info] DB connection success
+2022-03-07 09:41:28.447[info] Sequelize sync success
+2022-03-07 09:41:33.747[info] app start
+2022-03-07 09:41:33.955[info] DB connection success
+2022-03-07 09:41:33.981[info] Sequelize sync success
+2022-03-07 09:41:37.999[info] app start
+2022-03-07 09:41:38.355[info] DB connection success
+2022-03-07 09:41:38.384[info] Sequelize sync success
+2022-03-07 09:42:37.773[info] app start
+2022-03-07 09:42:37.990[info] DB connection success
+2022-03-07 09:42:38.020[info] Sequelize sync success
+2022-03-07 09:42:47.274[info] app start
+2022-03-07 09:42:47.493[info] DB connection success
+2022-03-07 09:42:47.525[info] Sequelize sync success
+2022-03-07 09:42:58.938[info] app start
+2022-03-07 09:42:59.262[info] DB connection success
+2022-03-07 09:42:59.290[info] Sequelize sync success
+2022-03-07 09:43:01.647[info] app start
+2022-03-07 09:43:01.875[info] DB connection success
+2022-03-07 09:43:01.902[info] Sequelize sync success
+2022-03-07 09:43:12.678[info] app start
+2022-03-07 09:43:13.029[info] DB connection success
+2022-03-07 09:43:13.057[info] Sequelize sync success
+2022-03-07 09:43:58.620[info] app start
+2022-03-07 09:43:58.835[info] DB connection success
+2022-03-07 09:43:58.863[info] Sequelize sync success
+2022-03-07 09:45:31.018[info] app start
+2022-03-07 09:45:31.357[info] DB connection success
+2022-03-07 09:45:31.385[info] Sequelize sync success
+2022-03-07 09:45:50.396[info] app start
+2022-03-07 09:45:50.739[info] DB connection success
+2022-03-07 09:45:50.766[info] Sequelize sync success
+2022-03-07 09:49:21.465[info] app start
+2022-03-07 09:49:21.799[info] DB connection success
+2022-03-07 09:49:21.827[info] Sequelize sync success
+2022-03-07 09:49:52.734[info] app start
+2022-03-07 09:49:52.945[info] DB connection success
+2022-03-07 09:49:52.971[info] Sequelize sync success
+2022-03-07 09:51:42.310[info] app start
+2022-03-07 09:51:42.525[info] DB connection success
+2022-03-07 09:51:42.570[info] Sequelize sync success
+2022-03-07 09:51:49.495[info] app start
+2022-03-07 09:51:49.715[info] DB connection success
+2022-03-07 09:51:49.746[info] Sequelize sync success
+2022-03-07 09:52:56.709[info] app start
+2022-03-07 09:52:56.926[info] DB connection success
+2022-03-07 09:52:56.953[info] Sequelize sync success
+2022-03-07 09:53:18.164[info] app start
+2022-03-07 09:53:18.428[info] DB connection success
+2022-03-07 09:53:18.460[info] Sequelize sync success
+2022-03-07 09:53:39.046[info] app start
+2022-03-07 09:53:39.431[info] DB connection success
+2022-03-07 09:53:39.460[info] Sequelize sync success
+2022-03-07 09:54:23.010[info] app start
+2022-03-07 09:54:23.237[info] DB connection success
+2022-03-07 09:54:23.263[info] Sequelize sync success
+2022-03-07 09:55:04.727[info] app start
+2022-03-07 09:55:04.972[info] DB connection success
+2022-03-07 09:55:04.999[info] Sequelize sync success
+2022-03-07 09:55:57.782[info] app start
+2022-03-07 09:55:58.019[info] DB connection success
+2022-03-07 09:55:58.048[info] Sequelize sync success
+2022-03-07 09:56:01.387[info] app start
+2022-03-07 09:56:01.701[info] DB connection success
+2022-03-07 09:56:01.729[info] Sequelize sync success
+2022-03-07 09:57:02.792[info] app start
+2022-03-07 09:57:03.133[info] DB connection success
+2022-03-07 09:57:03.163[info] Sequelize sync success
+2022-03-07 09:57:52.047[info] app start
+2022-03-07 09:57:52.273[info] DB connection success
+2022-03-07 09:57:52.302[info] Sequelize sync success
+2022-03-07 09:58:24.814[info] app start
+2022-03-07 09:58:25.050[info] DB connection success
+2022-03-07 09:58:25.079[info] Sequelize sync success
+2022-03-07 09:58:30.772[info] app start
+2022-03-07 09:58:30.997[info] DB connection success
+2022-03-07 09:58:31.025[info] Sequelize sync success
+2022-03-07 09:58:41.899[info] app start
+2022-03-07 09:58:42.128[info] DB connection success
+2022-03-07 09:58:42.157[info] Sequelize sync success
+2022-03-07 10:00:01.285[info] app start
+2022-03-07 10:00:01.643[info] DB connection success
+2022-03-07 10:00:01.679[info] Sequelize sync success
+2022-03-07 10:00:25.053[info] app start
+2022-03-07 10:00:25.294[info] DB connection success
+2022-03-07 10:00:25.335[info] Sequelize sync success
+2022-03-07 10:01:07.407[info] app start
+2022-03-07 10:01:07.655[info] DB connection success
+2022-03-07 10:01:07.687[info] Sequelize sync success
+2022-03-07 10:01:43.794[info] app start
+2022-03-07 10:01:44.027[info] DB connection success
+2022-03-07 10:01:44.059[info] Sequelize sync success
+2022-03-07 10:02:05.388[info] app start
+2022-03-07 10:02:05.614[info] DB connection success
+2022-03-07 10:02:05.642[info] Sequelize sync success
+2022-03-07 10:02:48.127[info] app start
+2022-03-07 10:02:48.456[info] DB connection success
+2022-03-07 10:02:48.484[info] Sequelize sync success
+2022-03-07 10:03:08.396[info] app start
+2022-03-07 10:03:08.615[info] DB connection success
+2022-03-07 10:03:08.641[info] Sequelize sync success
+2022-03-07 10:03:13.221[info] app start
+2022-03-07 10:03:13.452[info] DB connection success
+2022-03-07 10:03:13.516[info] Sequelize sync success
+2022-03-07 10:03:22.926[info] app start
+2022-03-07 10:03:23.167[info] DB connection success
+2022-03-07 10:03:23.198[info] Sequelize sync success
+2022-03-07 10:09:47.687[info] app start
+2022-03-07 10:09:47.927[info] DB connection success
+2022-03-07 10:09:47.955[info] Sequelize sync success
+2022-03-07 10:35:15.046[info] app start
+2022-03-07 10:35:15.329[info] DB connection success
+2022-03-07 10:35:15.366[info] Sequelize sync success
+2022-03-07 10:36:22.315[info] app start
+2022-03-07 10:36:22.552[info] DB connection success
+2022-03-07 10:36:22.582[info] Sequelize sync success
+2022-03-07 10:37:51.153[info] app start
+2022-03-07 10:37:51.402[info] DB connection success
+2022-03-07 10:37:51.438[info] Sequelize sync success
+2022-03-07 10:40:02.780[info] app start
+2022-03-07 10:40:03.072[info] DB connection success
+2022-03-07 10:40:03.104[info] Sequelize sync success
+2022-03-07 10:42:59.813[info] app start
+2022-03-07 10:43:00.158[info] DB connection success
+2022-03-07 10:43:00.200[info] Sequelize sync success
+2022-03-07 10:43:05.912[info] app start
+2022-03-07 10:43:06.171[info] DB connection success
+2022-03-07 10:43:06.201[info] Sequelize sync success
+2022-03-07 10:44:40.410[info] app start
+2022-03-07 10:44:40.744[info] DB connection success
+2022-03-07 10:44:40.772[info] Sequelize sync success
+2022-03-07 10:47:50.655[info] app start
+2022-03-07 10:47:50.988[info] DB connection success
+2022-03-07 10:47:51.015[info] Sequelize sync success
+2022-03-07 10:49:06.603[info] app start
+2022-03-07 10:49:06.840[info] DB connection success
+2022-03-07 10:49:06.869[info] Sequelize sync success
+2022-03-07 10:51:03.338[info] app start
+2022-03-07 10:51:03.706[info] DB connection success
+2022-03-07 10:51:03.733[info] Sequelize sync success
+2022-03-07 10:51:14.825[info] app start
+2022-03-07 10:51:15.055[info] DB connection success
+2022-03-07 10:51:15.083[info] Sequelize sync success
+2022-03-07 10:51:21.157[info] app start
+2022-03-07 10:51:21.376[info] DB connection success
+2022-03-07 10:51:21.403[info] Sequelize sync success
+2022-03-07 10:51:57.315[info] app start
+2022-03-07 10:51:57.558[info] DB connection success
+2022-03-07 10:51:57.588[info] Sequelize sync success
+2022-03-07 10:52:19.269[info] app start
+2022-03-07 10:52:19.518[info] DB connection success
+2022-03-07 10:52:19.551[info] Sequelize sync success
+2022-03-07 10:54:58.474[info] app start
+2022-03-07 10:54:58.716[info] DB connection success
+2022-03-07 10:54:58.745[info] Sequelize sync success
+2022-03-07 10:55:10.058[info] app start
+2022-03-07 10:55:10.276[info] DB connection success
+2022-03-07 10:55:10.305[info] Sequelize sync success
+2022-03-07 10:55:47.535[info] app start
+2022-03-07 10:55:47.866[info] DB connection success
+2022-03-07 10:55:47.894[info] Sequelize sync success
+2022-03-07 10:56:14.092[info] app start
+2022-03-07 10:56:14.478[info] DB connection success
+2022-03-07 10:56:14.509[info] Sequelize sync success
+2022-03-07 11:05:15.498[info] app start
+2022-03-07 11:05:15.741[info] DB connection success
+2022-03-07 11:05:15.792[info] Sequelize sync success
+2022-03-07 11:05:50.525[info] app start
+2022-03-07 11:05:50.882[info] DB connection success
+2022-03-07 11:05:50.924[info] Sequelize sync success
+2022-03-07 11:06:53.485[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:06:53.641[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 11:24:21.981[info] app start
+2022-03-07 11:24:22.239[info] DB connection success
+2022-03-07 11:24:22.295[info] Sequelize sync success
+2022-03-07 11:24:24.337[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:24:24.350[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 11:24:26.056[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:24:26.071[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 11:25:26.695[info] app start
+2022-03-07 11:25:26.942[info] DB connection success
+2022-03-07 11:25:26.987[info] Sequelize sync success
+2022-03-07 11:25:37.730[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:25:37.883[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 11:25:39.891[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:25:39.905[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 11:26:38.562[info] app start
+2022-03-07 11:26:38.824[info] DB connection success
+2022-03-07 11:26:38.873[info] Sequelize sync success
+2022-03-07 11:26:48.973[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:26:49.096[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 11:26:51.942[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 11:26:51.950[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 13:05:43.418[info] app start
+2022-03-07 13:05:43.672[info] DB connection success
+2022-03-07 13:05:43.709[info] Sequelize sync success
+2022-03-07 13:05:47.813[info] app start
+2022-03-07 13:05:48.073[info] DB connection success
+2022-03-07 13:05:48.111[info] Sequelize sync success
+2022-03-07 13:05:52.808[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 13:05:52.821[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 13:05:54.120[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 13:05:54.126[debug] (commentService.list) TypeError: logger.debut is not a function
+2022-03-07 14:16:41.177[info] app start
+2022-03-07 14:16:41.526[info] DB connection success
+2022-03-07 14:16:41.570[info] Sequelize sync success
+2022-03-07 14:16:42.619[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-07 14:16:42.631[debug] (commentService.list) {"count":0,"rows":[]}
+2022-03-07 14:16:42.632[info] (comment.list.result) {"count":0,"rows":[]}

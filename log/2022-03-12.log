@@ -1,0 +1,9 @@
+2022-03-12 00:19:48.444[info] app start
+2022-03-12 00:19:49.086[info] DB connection success
+2022-03-12 00:19:49.190[info] Sequelize sync success
+2022-03-12 00:20:39.602[info] app start
+2022-03-12 00:20:39.875[info] DB connection success
+2022-03-12 00:20:39.923[info] Sequelize sync success
+2022-03-12 00:20:41.726[info] (vision.list.params) {}
+2022-03-12 00:20:41.745[debug] (visionService.list) {"count":0,"rows":[]}
+2022-03-12 00:20:41.746[info] (vision.list.result) {"count":0,"rows":[]}

@@ -1,0 +1,265 @@
+2022-03-03 13:39:01.521[info] app start
+2022-03-03 13:39:01.894[error] DB Connection fail ����� "postgres"�� password ������ �����߽��ϴ�
+2022-03-03 13:39:47.935[info] app start
+2022-03-03 13:39:48.202[info] DB connection success
+2022-03-03 13:39:48.266[info] Sequelize sync success
+2022-03-03 14:03:26.205[info] app start
+2022-03-03 14:03:26.542[info] DB connection success
+2022-03-03 14:03:26.557[info] Sequelize sync success
+2022-03-03 14:06:07.498[info] app start
+2022-03-03 14:06:07.736[info] DB connection success
+2022-03-03 14:06:07.752[info] Sequelize sync success
+2022-03-03 14:07:49.251[info] app start
+2022-03-03 14:07:49.588[info] DB connection success
+2022-03-03 14:07:49.603[info] Sequelize sync success
+2022-03-03 14:07:58.024[info] app start
+2022-03-03 14:07:58.377[info] DB connection success
+2022-03-03 14:07:58.391[info] Sequelize sync success
+2022-03-03 14:09:46.191[info] app start
+2022-03-03 14:09:46.454[info] DB connection success
+2022-03-03 14:09:46.474[info] Sequelize sync success
+2022-03-03 14:11:41.312[info] app start
+2022-03-03 14:11:41.585[info] DB connection success
+2022-03-03 14:11:41.603[info] Sequelize sync success
+2022-03-03 14:13:17.514[info] app start
+2022-03-03 14:13:17.764[info] DB connection success
+2022-03-03 14:13:17.780[info] Sequelize sync success
+2022-03-03 14:16:50.590[info] app start
+2022-03-03 14:16:50.877[info] DB connection success
+2022-03-03 14:16:50.896[info] Sequelize sync success
+2022-03-03 14:18:44.548[info] app start
+2022-03-03 14:18:44.786[info] DB connection success
+2022-03-03 14:18:44.802[info] Sequelize sync success
+2022-03-03 14:18:52.118[info] app start
+2022-03-03 14:18:52.364[info] DB connection success
+2022-03-03 14:18:52.383[info] Sequelize sync success
+2022-03-03 14:21:20.172[info] app start
+2022-03-03 14:21:20.414[info] DB connection success
+2022-03-03 14:21:20.431[info] Sequelize sync success
+2022-03-03 14:21:50.209[info] app start
+2022-03-03 14:21:50.430[info] DB connection success
+2022-03-03 14:21:50.446[info] Sequelize sync success
+2022-03-03 14:36:01.861[info] app start
+2022-03-03 14:36:02.123[info] DB connection success
+2022-03-03 14:36:02.140[info] Sequelize sync success
+2022-03-03 14:36:11.796[info] app start
+2022-03-03 14:36:12.150[info] DB connection success
+2022-03-03 14:36:12.165[info] Sequelize sync success
+2022-03-03 14:37:40.945[info] app start
+2022-03-03 14:37:41.174[info] DB connection success
+2022-03-03 14:37:41.190[info] Sequelize sync success
+2022-03-03 14:37:50.458[info] app start
+2022-03-03 14:37:50.796[info] DB connection success
+2022-03-03 14:37:50.812[info] Sequelize sync success
+2022-03-03 14:38:37.960[info] app start
+2022-03-03 14:38:38.229[info] DB connection success
+2022-03-03 14:38:38.252[info] Sequelize sync success
+2022-03-03 14:44:58.224[info] app start
+2022-03-03 14:44:58.460[info] DB connection success
+2022-03-03 14:44:58.477[info] Sequelize sync success
+2022-03-03 14:45:03.877[info] app start
+2022-03-03 14:45:04.254[info] DB connection success
+2022-03-03 14:45:04.269[info] Sequelize sync success
+2022-03-03 14:48:15.980[info] app start
+2022-03-03 14:48:16.200[info] DB connection success
+2022-03-03 14:48:16.215[info] Sequelize sync success
+2022-03-03 15:11:33.687[info] app start
+2022-03-03 15:11:33.921[info] DB connection success
+2022-03-03 15:11:33.939[info] Sequelize sync success
+2022-03-03 15:12:33.744[info] app start
+2022-03-03 15:12:33.993[info] DB connection success
+2022-03-03 15:12:34.008[info] Sequelize sync success
+2022-03-03 15:12:58.393[info] app start
+2022-03-03 15:12:58.607[info] DB connection success
+2022-03-03 15:12:58.623[info] Sequelize sync success
+2022-03-03 15:16:33.294[info] app start
+2022-03-03 15:16:33.528[info] DB connection success
+2022-03-03 15:16:33.544[info] Sequelize sync success
+2022-03-03 15:16:42.317[info] app start
+2022-03-03 15:16:42.535[info] DB connection success
+2022-03-03 15:16:42.550[info] Sequelize sync success
+2022-03-03 15:17:53.452[info] app start
+2022-03-03 15:17:53.721[info] DB connection success
+2022-03-03 15:17:53.738[info] Sequelize sync success
+2022-03-03 15:20:47.126[info] app start
+2022-03-03 15:20:47.362[info] DB connection success
+2022-03-03 15:20:47.381[info] Sequelize sync success
+2022-03-03 15:22:08.990[info] app start
+2022-03-03 15:22:09.224[info] DB connection success
+2022-03-03 15:22:09.242[info] Sequelize sync success
+2022-03-03 15:22:55.543[info] app start
+2022-03-03 15:22:55.770[info] DB connection success
+2022-03-03 15:22:55.787[info] Sequelize sync success
+2022-03-03 15:23:25.589[info] app start
+2022-03-03 15:23:25.834[info] DB connection success
+2022-03-03 15:23:25.850[info] Sequelize sync success
+2022-03-03 15:23:36.586[info] app start
+2022-03-03 15:23:36.850[info] DB connection success
+2022-03-03 15:23:36.873[info] Sequelize sync success
+2022-03-03 15:24:58.805[info] app start
+2022-03-03 15:24:59.070[info] DB connection success
+2022-03-03 15:24:59.089[info] Sequelize sync success
+2022-03-03 15:25:30.619[info] app start
+2022-03-03 15:25:30.841[info] DB connection success
+2022-03-03 15:25:30.857[info] Sequelize sync success
+2022-03-03 15:26:14.609[info] app start
+2022-03-03 15:26:14.829[info] DB connection success
+2022-03-03 15:26:14.845[info] Sequelize sync success
+2022-03-03 15:27:21.357[info] app start
+2022-03-03 15:27:21.609[info] DB connection success
+2022-03-03 15:27:21.625[info] Sequelize sync success
+2022-03-03 16:05:25.040[info] app start
+2022-03-03 16:05:25.585[info] DB connection success
+2022-03-03 16:05:25.601[info] Sequelize sync success
+2022-03-03 16:32:28.248[info] (profile.reg.params) {}
+2022-03-03 16:32:28.251[error] Error: Not allowed null (name, userid, password)
+2022-03-03 16:32:28.256[error] (profileService.reg) SequelizeValidationError: notNull Violation: Profile.userid cannot be null,
+notNull Violation: Profile.password cannot be null
+2022-03-03 16:33:22.712[info] (profile.reg.params) {"userid":"a","password":"123","name":"aa"}
+2022-03-03 16:33:22.811[error] (profileService.reg) SequelizeDatabaseError: "updated_pw_date" 이름의 칼럼은 없습니다
+2022-03-03 16:40:20.479[info] app start
+2022-03-03 16:40:20.726[info] DB connection success
+2022-03-03 16:40:20.746[info] Sequelize sync success
+2022-03-03 16:47:17.363[info] app start
+2022-03-03 16:47:17.597[info] DB connection success
+2022-03-03 16:47:17.639[info] Sequelize sync success
+2022-03-03 16:48:35.702[info] (profile.list.params) {}
+2022-03-03 16:48:35.709[error] (profileService.list) SequelizeEagerLoadingError: Profile is not associated to Profile!
+2022-03-03 16:48:45.640[info] (profile.reg.params) {"userid":"a","password":"123","name":"aa"}
+2022-03-03 16:48:45.742[debug] (profileService.reg) {"id":1,"userid":"a","name":"aa","mobile":null,"email":null,"updatedAt":"2022-03-03T07:48:45.645Z","createdAt":"2022-03-03T07:48:45.645Z","updatedPwDate":null,"deletedAt":null}
+2022-03-03 16:48:45.744[info] (profile.reg.result) {"id":1,"userid":"a","name":"aa","mobile":null,"email":null,"updatedAt":"2022-03-03T07:48:45.645Z","createdAt":"2022-03-03T07:48:45.645Z","updatedPwDate":null,"deletedAt":null}
+2022-03-03 17:21:18.000[info] app start
+2022-03-03 17:21:18.273[info] DB connection success
+2022-03-03 17:21:18.291[info] Sequelize sync success
+2022-03-03 17:21:24.656[info] app start
+2022-03-03 17:21:24.960[info] DB connection success
+2022-03-03 17:21:24.982[info] Sequelize sync success
+2022-03-03 17:21:31.171[info] app start
+2022-03-03 17:21:31.441[info] DB connection success
+2022-03-03 17:21:31.461[info] Sequelize sync success
+2022-03-03 17:21:39.759[info] app start
+2022-03-03 17:21:40.023[info] DB connection success
+2022-03-03 17:21:40.043[info] Sequelize sync success
+2022-03-03 17:39:55.378[info] app start
+2022-03-03 17:39:55.753[info] DB connection success
+2022-03-03 17:39:55.769[info] Sequelize sync success
+2022-03-03 17:41:14.469[info] app start
+2022-03-03 17:41:14.725[info] DB connection success
+2022-03-03 17:41:14.745[info] Sequelize sync success
+2022-03-03 19:19:51.436[info] app start
+2022-03-03 19:19:51.729[info] DB connection success
+2022-03-03 19:19:51.749[info] Sequelize sync success
+2022-03-03 19:21:46.928[info] app start
+2022-03-03 19:21:47.174[info] DB connection success
+2022-03-03 19:21:47.194[info] Sequelize sync success
+2022-03-03 19:22:49.915[info] app start
+2022-03-03 19:22:50.142[info] DB connection success
+2022-03-03 19:22:50.161[info] Sequelize sync success
+2022-03-03 19:22:53.460[info] app start
+2022-03-03 19:22:53.804[info] DB connection success
+2022-03-03 19:22:53.822[info] Sequelize sync success
+2022-03-03 19:27:05.019[info] app start
+2022-03-03 19:27:05.304[info] DB connection success
+2022-03-03 19:27:05.321[info] Sequelize sync success
+2022-03-03 19:28:39.832[info] app start
+2022-03-03 19:28:40.138[info] DB connection success
+2022-03-03 19:28:40.159[info] Sequelize sync success
+2022-03-03 19:30:06.382[info] app start
+2022-03-03 19:30:06.647[info] DB connection success
+2022-03-03 19:30:06.668[info] Sequelize sync success
+2022-03-03 19:30:18.147[info] app start
+2022-03-03 19:30:18.414[info] DB connection success
+2022-03-03 19:30:18.435[info] Sequelize sync success
+2022-03-03 19:35:03.862[info] app start
+2022-03-03 19:35:04.148[info] DB connection success
+2022-03-03 19:35:04.167[info] Sequelize sync success
+2022-03-03 19:38:41.601[info] app start
+2022-03-03 19:38:41.840[info] DB connection success
+2022-03-03 19:38:41.862[info] Sequelize sync success
+2022-03-03 19:41:15.117[info] app start
+2022-03-03 19:41:15.420[info] DB connection success
+2022-03-03 19:41:15.436[info] Sequelize sync success
+2022-03-03 19:41:37.533[info] app start
+2022-03-03 19:41:37.767[info] DB connection success
+2022-03-03 19:41:37.784[info] Sequelize sync success
+2022-03-03 19:41:39.420[info] app start
+2022-03-03 19:41:39.771[info] DB connection success
+2022-03-03 19:41:39.790[info] Sequelize sync success
+2022-03-03 19:41:50.492[info] app start
+2022-03-03 19:41:50.811[info] DB connection success
+2022-03-03 19:41:50.829[info] Sequelize sync success
+2022-03-03 19:41:54.730[info] app start
+2022-03-03 19:41:55.002[info] DB connection success
+2022-03-03 19:41:55.021[info] Sequelize sync success
+2022-03-03 19:43:10.353[info] app start
+2022-03-03 19:43:10.712[info] DB connection success
+2022-03-03 19:43:10.729[info] Sequelize sync success
+2022-03-03 19:43:19.297[info] app start
+2022-03-03 19:43:19.527[info] DB connection success
+2022-03-03 19:43:19.544[info] Sequelize sync success
+2022-03-03 19:46:41.774[info] app start
+2022-03-03 19:46:42.055[info] DB connection success
+2022-03-03 19:46:42.074[info] Sequelize sync success
+2022-03-03 19:49:05.246[info] app start
+2022-03-03 19:49:05.492[info] DB connection success
+2022-03-03 19:49:05.515[info] Sequelize sync success
+2022-03-03 19:49:25.925[info] app start
+2022-03-03 19:49:26.191[info] DB connection success
+2022-03-03 19:49:26.210[info] Sequelize sync success
+2022-03-03 19:49:37.138[info] app start
+2022-03-03 19:49:37.384[info] DB connection success
+2022-03-03 19:49:37.405[info] Sequelize sync success
+2022-03-03 19:57:10.074[info] app start
+2022-03-03 19:57:10.439[info] DB connection success
+2022-03-03 19:57:10.456[info] Sequelize sync success
+2022-03-03 20:14:59.590[info] app start
+2022-03-03 20:14:59.820[info] DB connection success
+2022-03-03 20:14:59.839[info] Sequelize sync success
+2022-03-03 20:16:28.603[info] app start
+2022-03-03 20:16:28.847[info] DB connection success
+2022-03-03 20:16:28.926[info] Sequelize sync success
+2022-03-03 20:18:32.717[info] app start
+2022-03-03 20:18:33.045[info] DB connection success
+2022-03-03 20:18:33.066[info] Sequelize sync success
+2022-03-03 20:22:02.110[info] app start
+2022-03-03 20:22:02.378[info] DB connection success
+2022-03-03 20:22:02.397[info] Sequelize sync success
+2022-03-03 20:24:04.749[info] app start
+2022-03-03 20:24:05.016[info] DB connection success
+2022-03-03 20:24:05.036[info] Sequelize sync success
+2022-03-03 20:35:46.588[info] app start
+2022-03-03 20:35:46.951[info] DB connection success
+2022-03-03 20:35:46.971[info] Sequelize sync success
+2022-03-03 20:38:42.448[info] app start
+2022-03-03 20:38:42.697[info] DB connection success
+2022-03-03 20:38:42.716[info] Sequelize sync success
+2022-03-03 20:41:34.800[info] app start
+2022-03-03 20:41:35.070[info] DB connection success
+2022-03-03 20:41:35.088[info] Sequelize sync success
+2022-03-03 20:41:44.400[info] app start
+2022-03-03 20:41:44.673[info] DB connection success
+2022-03-03 20:41:44.733[info] Sequelize sync success
+2022-03-03 20:45:00.430[info] app start
+2022-03-03 20:45:00.658[info] DB connection success
+2022-03-03 20:45:00.675[info] Sequelize sync success
+2022-03-03 20:46:58.955[info] app start
+2022-03-03 20:46:59.188[info] DB connection success
+2022-03-03 20:46:59.206[info] Sequelize sync success
+2022-03-03 20:47:54.202[info] app start
+2022-03-03 20:47:54.538[info] DB connection success
+2022-03-03 20:47:54.575[info] Sequelize sync success
+2022-03-03 20:55:11.476[info] (post.reg.params) {"post":"게시판","subject":"첫글","userid":"aa","text":"hihihi"}
+2022-03-03 20:55:11.478[error] Error: Not allowed null (name)
+2022-03-03 20:55:11.489[error] (postService.reg) SequelizeValidationError: notNull Violation: Post.comment cannot be null
+2022-03-03 20:56:57.337[info] app start
+2022-03-03 20:56:57.643[info] DB connection success
+2022-03-03 20:56:57.674[info] Sequelize sync success
+2022-03-03 20:56:58.327[info] (post.reg.params) {"post":"게시판","subject":"첫글","userid":"aa","text":"hihihi"}
+2022-03-03 20:56:58.329[error] Error: Not allowed null (name)
+2022-03-03 20:56:58.346[error] (postService.reg) SequelizeDatabaseError: "comment" 칼럼(해당 릴레이션 "posts")의 null 값이 not null 제약조건을 위반했습니다.
+2022-03-03 20:56:59.615[info] (post.reg.params) {"post":"게시판","subject":"첫글","userid":"aa","text":"hihihi"}
+2022-03-03 20:56:59.617[error] Error: Not allowed null (name)
+2022-03-03 20:56:59.621[error] (postService.reg) SequelizeDatabaseError: "comment" 칼럼(해당 릴레이션 "posts")의 null 값이 not null 제약조건을 위반했습니다.
+2022-03-03 20:57:32.445[info] (post.reg.params) {"post":"게시판","subject":"첫글","userid":"aa","text":"hihihi"}
+2022-03-03 20:57:32.447[error] Error: Not allowed null (name)
+2022-03-03 20:57:32.553[error] (postService.reg) SequelizeDatabaseError: "comment" 칼럼(해당 릴레이션 "posts")의 null 값이 not null 제약조건을 위반했습니다.
