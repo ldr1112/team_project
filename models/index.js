@@ -1,7 +1,8 @@
 // const { profile } = require('../lib/logger');
 const { sequelize } = require('./connection');
-const Profile = require('./profile');
+
 const Post = require('./post');
+const Profile = require('./profile');
 const Board = require('./board');
 const Comment = require('./comment');
 const Image = require('./image');
@@ -12,8 +13,9 @@ const db = {};
 db.sequelize = sequelize;
 
 // model 생성
-db.Profile = Profile;
+
 db.Post = Post;
+db.Profile = Profile;
 db.Board = Board;
 db.Comment = Comment;
 db.Image = Image;

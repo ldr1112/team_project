@@ -42,7 +42,7 @@ const service = {
     let result = null;
 
     try {
-      result = await imageDao.selectDao(params);
+      result = await imageDao.selectList(params);
       logger.debug(`(imageService.info) ${JSON.stringify(result)}`);
     } catch (err) {
       logger.error(`(imageService.info) ${err.toString()}`);

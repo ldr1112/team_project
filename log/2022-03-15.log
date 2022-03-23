@@ -1,0 +1,104 @@
+2022-03-15 01:11:33.443[info] app start
+2022-03-15 01:11:34.047[info] DB connection success
+2022-03-15 01:11:34.105[info] Sequelize sync success
+2022-03-15 01:11:48.270[info] (image.list.params) {}
+2022-03-15 01:11:48.428[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 01:11:56.251[info] (profile.list.params) {}
+2022-03-15 01:11:56.259[debug] (profileService.list) {"count":0,"rows":[]}
+2022-03-15 01:11:56.259[info] (profile.list.result) {"count":0,"rows":[]}
+2022-03-15 01:12:02.371[info] (profile.list.params) {}
+2022-03-15 01:12:02.378[debug] (profileService.list) {"count":0,"rows":[]}
+2022-03-15 01:12:02.379[info] (profile.list.result) {"count":0,"rows":[]}
+2022-03-15 01:12:08.847[info] (post.list.params) {}
+2022-03-15 01:12:08.864[error] (postService.list) SequelizeDatabaseError: "board_name" 이름의 칼럼은 없습니다
+2022-03-15 01:12:20.390[info] (post.list.params) {}
+2022-03-15 01:12:20.499[error] (postService.list) SequelizeDatabaseError: "board_name" 이름의 칼럼은 없습니다
+2022-03-15 01:20:27.837[info] (image.list.params) {}
+2022-03-15 01:20:27.946[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 01:21:22.931[info] (image.list.params) {}
+2022-03-15 01:21:23.048[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 01:29:54.343[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-15 01:29:54.447[debug] (commentService.list) SequelizeDatabaseError: "profile_id" 이름의 칼럼은 없습니다
+2022-03-15 01:29:59.494[info] (profile.list.params) {}
+2022-03-15 01:29:59.505[debug] (profileService.list) {"count":0,"rows":[]}
+2022-03-15 01:29:59.509[info] (profile.list.result) {"count":0,"rows":[]}
+2022-03-15 01:30:01.897[info] (post.list.params) {}
+2022-03-15 01:30:01.908[error] (postService.list) SequelizeDatabaseError: "board_name" 이름의 칼럼은 없습니다
+2022-03-15 02:53:55.832[info] app start
+2022-03-15 02:53:56.080[info] DB connection success
+2022-03-15 02:53:56.125[info] Sequelize sync success
+2022-03-15 02:59:38.681[info] app start
+2022-03-15 02:59:38.924[info] DB connection success
+2022-03-15 02:59:38.969[info] Sequelize sync success
+2022-03-15 02:59:51.156[info] app start
+2022-03-15 02:59:51.495[info] DB connection success
+2022-03-15 02:59:51.552[info] Sequelize sync success
+2022-03-15 03:00:58.359[info] app start
+2022-03-15 03:00:58.754[info] DB connection success
+2022-03-15 03:00:58.796[info] Sequelize sync success
+2022-03-15 03:04:52.380[info] app start
+2022-03-15 03:04:52.712[info] DB connection success
+2022-03-15 03:04:52.762[info] Sequelize sync success
+2022-03-15 03:05:03.024[info] app start
+2022-03-15 03:05:03.332[info] DB connection success
+2022-03-15 03:05:03.384[info] Sequelize sync success
+2022-03-15 03:05:13.664[info] app start
+2022-03-15 03:05:14.026[info] DB connection success
+2022-03-15 03:05:14.068[info] Sequelize sync success
+2022-03-15 03:06:03.752[info] app start
+2022-03-15 03:06:04.055[info] DB connection success
+2022-03-15 03:06:04.115[info] Sequelize sync success
+2022-03-15 03:07:12.016[info] app start
+2022-03-15 03:07:12.387[info] DB connection success
+2022-03-15 03:07:12.434[info] Sequelize sync success
+2022-03-15 03:39:50.076[info] app start
+2022-03-15 03:39:50.324[info] DB connection success
+2022-03-15 03:39:50.371[info] Sequelize sync success
+2022-03-15 03:41:13.272[info] app start
+2022-03-15 03:41:13.570[info] (image.list.params) {}
+2022-03-15 03:41:13.587[info] DB connection success
+2022-03-15 03:41:13.607[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 03:41:13.765[info] Sequelize sync success
+2022-03-15 03:41:54.350[info] app start
+2022-03-15 03:41:54.626[info] (image.list.params) {}
+2022-03-15 03:41:54.834[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 03:41:54.842[info] DB connection success
+2022-03-15 03:41:54.920[info] (image.list.params) {}
+2022-03-15 03:41:54.934[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 03:41:54.940[info] Sequelize sync success
+2022-03-15 15:17:44.311[info] app start
+2022-03-15 15:17:44.784[info] DB connection success
+2022-03-15 15:17:44.839[info] Sequelize sync success
+2022-03-15 19:24:03.087[info] app start
+2022-03-15 19:24:03.419[info] DB connection success
+2022-03-15 19:24:03.481[info] Sequelize sync success
+2022-03-15 20:17:53.943[info] app start
+2022-03-15 20:17:54.238[info] DB connection success
+2022-03-15 20:17:54.301[info] Sequelize sync success
+2022-03-15 20:20:21.069[info] app start
+2022-03-15 20:20:21.383[info] DB connection success
+2022-03-15 20:20:21.442[info] Sequelize sync success
+2022-03-15 20:24:25.062[info] app start
+2022-03-15 20:24:25.371[info] DB connection success
+2022-03-15 20:24:25.464[info] Sequelize sync success
+2022-03-15 20:25:36.146[info] app start
+2022-03-15 20:25:36.437[info] DB connection success
+2022-03-15 20:25:36.490[info] Sequelize sync success
+2022-03-15 20:29:05.327[info] app start
+2022-03-15 20:29:05.667[info] DB connection success
+2022-03-15 20:29:05.733[info] Sequelize sync success
+2022-03-15 20:29:06.782[info] (image.reg.params) {}
+2022-03-15 20:29:06.784[error] Error: Not allowed null (name)
+2022-03-15 20:29:06.804[error] (imageService.reg) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 20:29:09.787[info] (image.reg.params) {}
+2022-03-15 20:29:09.788[error] Error: Not allowed null (name)
+2022-03-15 20:29:09.794[error] (imageService.reg) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 20:29:34.376[info] (image.reg.params) {}
+2022-03-15 20:29:34.378[error] Error: Not allowed null (name)
+2022-03-15 20:29:34.501[error] (imageService.reg) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 20:36:32.640[info] (image.reg.params) {}
+2022-03-15 20:36:32.643[error] Error: Not allowed null (name)
+2022-03-15 20:36:32.719[error] (imageService.reg) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-15 20:38:54.675[info] (image.reg.params) {}
+2022-03-15 20:38:54.677[error] Error: Not allowed null (name)
+2022-03-15 20:38:54.849[error] (imageService.reg) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다

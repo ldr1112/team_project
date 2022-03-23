@@ -3,16 +3,16 @@ const Sequelize = require('sequelize');
 module.exports = class Comment extends Sequelize.Model {
   static init(sequelize) {
     return super.init({
-      commentId: {
-        type: Sequelize.STRING(50),
-        unique: true,
-        allowNull: false,
-      },
-      subject: {
-        type: Sequelize.STRING(50),
-        allowNull: false,
+      postId: { // 게시글번호
+        type: Sequelize.STRING(255),
       },
       userId: {
+        type: Sequelize.STRING(255),
+      },
+      commentId: {
+        type: Sequelize.STRING(50),
+      },
+      subject: {
         type: Sequelize.STRING(50),
         allowNull: false,
       },
@@ -34,7 +34,7 @@ module.exports = class Comment extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.Comment.belongsTo(db.Post, { foreignKey: { subject: 'subject', onDelete: 'SET NULL', as: 'Post' } });
-    db.Comment.belongsTo(db.Profile, { foreignKey: { userId: 'userId', onDelete: 'SET NULL', as: 'Profile' } });
+    db.Comment.belongsTo(db.Post, { foreignKey: 'postId', targetKey: 'postId' });
+    db.Comment.belongsTo(db.Profile, { foreignKey: 'userId', targetKey: 'userId' });
   }
 };

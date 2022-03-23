@@ -3,6 +3,9 @@ const Sequelize = require('sequelize');
 module.exports = class Image extends Sequelize.Model {
   static init(sequelize) {
     return super.init({
+      postId: { // 게시글번호
+        type: Sequelize.STRING(255),
+      },
       imageId: { // 이미지 번호
         type: Sequelize.STRING(255),
         unique: true,
@@ -10,13 +13,18 @@ module.exports = class Image extends Sequelize.Model {
       subId: { // 게시글 번호
         type: Sequelize.STRING(500),
       },
-      imageName: { // 사진 이름
+      filename: { // 사진 이름
         type: Sequelize.STRING(100),
       },
-      vedeoName: { // 동영상 이름
+      mimetype: { // 동영상 이름
         type: Sequelize.STRING(255),
       },
-
+      path: { // 동영상 이름
+        type: Sequelize.STRING(255),
+      },
+      size: { // 동영상 이름
+        type: Sequelize.STRING(255),
+      },
     }, {
       sequelize,
       // tableName: 'tableName', // table명을 수동으로 생성 함
@@ -28,6 +36,6 @@ module.exports = class Image extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.Image.belongsTo(db.Post, { foreignKey: { imageId: 'imageId', onDelete: 'SET Null', as: 'Post' } });
+    db.Image.belongsTo(db.Post, { foreignKey: 'postId', targetKey: 'postId' });
   }
 };

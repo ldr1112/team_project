@@ -28,6 +28,6 @@ module.exports = class Board extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.Board.hasMany(db.Post, { foreignKey: { boardName: 'boardName' }, onDelete: 'SET NULL', as: 'Post' });
+    db.Board.hasMany(db.Post, { foreignKey: 'boardName', sourceKey: 'boardName' });
   }
 };

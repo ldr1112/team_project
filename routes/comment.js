@@ -8,6 +8,7 @@ const commentService = require('../service/commentService');
 router.post('/', async (req, res) => {
   try {
     const params = {
+      postId: req.body.postId,
       commentId: req.body.commentId,
       commentext: req.body.commentext,
       subId: req.body.subId,

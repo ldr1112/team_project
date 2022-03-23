@@ -40,6 +40,8 @@ router.post('/', async (req, res) => {
 router.get('/', async (req, res) => {
   try {
     const params = {
+
+      postId: req.body.postId,
       subnum: req.body.subnum,
       post: req.body.post,
       subject: req.body.subject,

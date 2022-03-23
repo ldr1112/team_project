@@ -36,7 +36,7 @@ module.exports = class Profile extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.Profile.hasMany(db.Post, { foreignKey: { userId: 'userId' }, onDelete: 'SET NULL', as: 'Post' });
-    db.Profile.hasMany(db.Comment, { foreignKey: { userId: 'userId' }, onDelete: 'SET NULL', as: 'Comment' });
+    db.Profile.hasMany(db.Post, { foreignKey: 'userId', sourceKey: 'userId' });
+    db.Profile.hasMany(db.Comment, { foreignKey: 'userId ', sourceKey: 'userId' });
   }
 };

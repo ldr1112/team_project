@@ -1,0 +1,14 @@
+2022-03-17 18:11:20.442[info] (image.reg.params) {}
+2022-03-17 18:11:20.452[error] Error: Not allowed null (name)
+2022-03-17 18:11:20.583[error] (imageService.reg) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-17 18:14:03.756[info] (image.list.params) {}
+2022-03-17 18:14:03.887[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다
+2022-03-17 18:14:19.195[info] (post.list.params) {}
+2022-03-17 18:14:19.290[error] (postService.list) SequelizeDatabaseError: "board_name" 이름의 칼럼은 없습니다
+2022-03-17 18:14:24.111[info] (profile.list.params) {}
+2022-03-17 18:14:24.123[debug] (profileService.list) {"count":0,"rows":[]}
+2022-03-17 18:14:24.126[info] (profile.list.result) {"count":0,"rows":[]}
+2022-03-17 18:15:00.237[info] (comment.list.params) $JSON.stringfy(params)
+2022-03-17 18:15:00.326[debug] (commentService.list) SequelizeDatabaseError: "profile_id" 이름의 칼럼은 없습니다
+2022-03-17 18:15:35.136[info] (image.list.params) {}
+2022-03-17 18:15:35.250[error] (imageService.list) SequelizeDatabaseError: "post_id" 이름의 칼럼은 없습니다

@@ -1,0 +1,71 @@
+2022-03-22 14:29:44.652[info] app start
+2022-03-22 14:29:45.143[info] DB connection success
+2022-03-22 14:29:45.225[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 15:15:01.094[info] app start
+2022-03-22 15:15:01.377[info] DB connection success
+2022-03-22 15:15:01.430[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 15:15:35.425[info] app start
+2022-03-22 15:15:35.692[info] DB connection success
+2022-03-22 15:15:35.765[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 15:20:22.288[info] app start
+2022-03-22 15:20:22.721[info] DB connection success
+2022-03-22 15:20:22.724[error] Sequelize sync error Cyclic dependency found. posts is dependent of itself.
+Dependency chain: posts -> images => posts
+2022-03-22 15:20:33.978[info] app start
+2022-03-22 15:20:34.273[info] DB connection success
+2022-03-22 15:20:34.348[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 15:20:50.073[info] app start
+2022-03-22 15:20:50.438[info] DB connection success
+2022-03-22 15:20:50.500[error] Sequelize sync error "posts_image_id_fkey" 참조키(foreign key) 제약 조건은 구현되어질 수 없습니다
+2022-03-22 15:21:51.448[info] app start
+2022-03-22 15:21:51.792[info] DB connection success
+2022-03-22 15:21:51.860[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 15:26:32.290[info] app start
+2022-03-22 15:26:32.576[info] DB connection success
+2022-03-22 15:26:32.579[error] Sequelize sync error Cyclic dependency found. posts is dependent of itself.
+Dependency chain: posts -> images => posts
+2022-03-22 15:26:38.919[info] app start
+2022-03-22 15:26:39.167[info] DB connection success
+2022-03-22 15:26:39.226[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 17:03:23.360[info] app start
+2022-03-22 17:03:23.695[info] DB connection success
+2022-03-22 17:03:23.753[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 17:04:22.808[info] app start
+2022-03-22 17:04:23.162[info] DB connection success
+2022-03-22 17:04:23.233[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 17:05:57.439[info] app start
+2022-03-22 17:05:57.707[info] DB connection success
+2022-03-22 17:05:57.765[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 17:06:20.327[info] app start
+2022-03-22 17:06:20.595[info] DB connection success
+2022-03-22 17:06:20.656[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 17:06:27.075[info] app start
+2022-03-22 17:06:27.372[info] DB connection success
+2022-03-22 17:06:27.428[error] Sequelize sync error 참조되는 "posts" 테이블을 위한 주워진 키와 일치하는 고유 제약 조건이 없습니다
+2022-03-22 17:06:33.569[info] app start
+2022-03-22 17:06:33.936[info] DB connection success
+2022-03-22 17:06:33.984[error] Sequelize sync error 참조키(foreign key) 제약 조건에서 참조하는 "post_id" 칼럼이 없음
+2022-03-22 17:06:59.448[info] app start
+2022-03-22 17:06:59.706[info] DB connection success
+2022-03-22 17:06:59.752[error] Sequelize sync error 참조키(foreign key) 제약 조건에서 참조하는 "post_id" 칼럼이 없음
+2022-03-22 20:25:52.676[info] app start
+2022-03-22 20:25:53.111[info] DB connection success
+2022-03-22 20:25:53.227[info] Sequelize sync success
+2022-03-22 20:27:33.269[info] app start
+2022-03-22 20:27:33.538[info] DB connection success
+2022-03-22 20:27:33.646[info] Sequelize sync success
+2022-03-22 20:39:18.626[info] app start
+2022-03-22 20:39:19.125[info] DB connection success
+2022-03-22 20:39:19.177[info] Sequelize sync success
+2022-03-22 20:39:34.056[info] app start
+2022-03-22 20:39:34.279[info] DB connection success
+2022-03-22 20:39:34.385[info] Sequelize sync success
+2022-03-22 20:39:57.169[info] app start
+2022-03-22 20:39:57.422[info] DB connection success
+2022-03-22 20:39:57.489[info] Sequelize sync success
+2022-03-22 20:40:08.560[info] app start
+2022-03-22 20:40:08.813[info] DB connection success
+2022-03-22 20:40:08.915[info] Sequelize sync success
+2022-03-22 20:45:42.437[info] app start
+2022-03-22 20:45:42.687[info] DB connection success
+2022-03-22 20:45:42.728[info] Sequelize sync success

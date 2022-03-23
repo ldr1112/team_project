@@ -3,10 +3,11 @@ const Sequelize = require('sequelize');
 module.exports = class Post extends Sequelize.Model {
   static init(sequelize) {
     return super.init({
-      // subId: { // 게시글번호
-      //   type: Sequelize.STRING(255),
-      //   unique: true,
-      // },
+      postId: { // 게시글번호
+        type: Sequelize.STRING(255),
+        unique: true,
+        allowNull: false,
+      },
       boardName: { // 게시판 이름
         type: Sequelize.STRING(255),
       },
@@ -20,7 +21,6 @@ module.exports = class Post extends Sequelize.Model {
       },
       userId: { // 글쓴이
         type: Sequelize.STRING(255),
-        allowNull: false,
       },
       text: { // 내용
         type: Sequelize.STRING(255),
@@ -47,9 +47,9 @@ module.exports = class Post extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.Post.belongsTo(db.Profile, { foreignKey: { userId: 'userId', onDelete: 'SET NULL', as: 'Profile' } });
-    db.Post.belongsTo(db.Board, { foreignKey: { boardName: 'boardName', onDelete: 'SET Null', as: 'Board' } });
-    db.Post.hasMany(db.Image, { foreignKey: { imageId: 'imageId', onDelete: 'SET Null', as: 'Image' } });
-    db.Post.hasMany(db.Comment, { foreignKey: { subject: 'subject' }, onDelete: 'SET NULL', as: 'Comment' });
+    db.Post.hasMany(db.Image, { foreignKey: 'postId', sourceKey: 'postId' });
+    db.Post.hasMany(db.Comment, { foreignKey: 'postId', sourceKey: 'postId' });
+    db.Post.belongsTo(db.Profile, { foreignKey: 'userId', targetKey: 'userId' });
+    db.Post.belongsTo(db.Board, { foreignKey: 'boardName', targetKey: 'boardName' });
   }
 };
